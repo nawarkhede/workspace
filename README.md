@@ -1,7 +1,7 @@
 # workspace for ubuntu 14.4 LTS
 my linux environment. 
 
-* Before re-installing ubuntu take backup of importnat files. such as, .zsh_history, .ssh folder, .vimrc if necessary.
+* Before re-installing ubuntu take backup of important files. such as, .zsh_history, .bashrc , .ssh folder, .vimrc if necessary.
 * Enable workspaces
 * Make launcher icon size to 16
 
