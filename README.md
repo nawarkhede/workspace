@@ -1,8 +1,9 @@
 # workspace for ubuntu 14.4 LTS
 my linux environment. 
 
-Enable workspaces
-Make launcher icon size to 16
+* Before re-installing ubuntu take backup of importnat files such as, .zsh_history, .ssh folder, .vimrc if necessary.
+* Enable workspaces
+* Make launcher icon size to 16
 
 1. Install zsh with oh-my-zsh. https://github.com/robbyrussell/oh-my-zsh
 2. Intall clipit. https://apps.ubuntu.com/cat/applications/precise/clipit/
