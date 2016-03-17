@@ -29,3 +29,6 @@ my linux environment.
 5. Advanced REST client
 6. JSBeautify for Google Chrome
 
+# Other
+1. Upgrade postgres 9.3 to 9.4 https://medium.com/@tk512/upgrading-postgresql-from-9-3-to-9-4-on-ubuntu-14-04-lts-2b4ddcd26535#.km1f233fu
+
