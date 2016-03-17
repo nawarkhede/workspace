@@ -15,3 +15,4 @@ Make launcher icon size to 16
 9. Install news in terminal. https://github.com/nawarkhede/news-in-terminal
 10. Install terminator. http://www.webupd8.org/2015/09/terminal-emulator-terminator-sees-new.html
 11. Install virtualenvwrapper. http://virtualenvwrapper.readthedocs.org/en/latest/
+12. Install git. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
