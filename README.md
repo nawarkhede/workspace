@@ -10,3 +10,4 @@ Enable workspaces
 5. install indicator-netspeed.
 6. Install VIM.
 7. Install awesome vimrc. https://github.com/amix/vimrc
+8. Add .gitconfig
