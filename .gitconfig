@@ -1,0 +1,24 @@
+[user]
+	name = Nishant Nawarkhede
+	email = nishant.nawarkhede@gmail.com
+[core]
+    editor = vim
+
+#[diff]
+#    external = /usr/local/bin/git-diff.sh
+
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	cb = checkout -b
+	br = branch
+	l = log
+	lone = log -1
+	last = log -1
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	d = difftool
+	s = stash
+	sl = stash list
+	laststashed = stash apply stash@{0}
+	slast = stash
