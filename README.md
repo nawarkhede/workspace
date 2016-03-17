@@ -17,4 +17,15 @@ my linux environment.
 10. Install terminator. http://www.webupd8.org/2015/09/terminal-emulator-terminator-sees-new.html
 11. Install virtualenvwrapper. http://virtualenvwrapper.readthedocs.org/en/latest/
 12. Install git. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
-13. Install Sublime. http://ubuntuhandbook.org/index.php/2013/12/install-sublime-text-3-ubuntu-14-04-trusty/
+13. Install Sublime. http://ubuntuhandbook.org/index.php/2013/12/install-sublime-text-3-ubuntu-14-04-trusty/o
+14. Install Google Chrome 
+
+# Chrome extensions
+
+1. Adblock
+2. Crickbuzz
+3. LastPass
+4. Google dictionary
+5. Advanced REST client
+6. JSBeautify for Google Chrome
+
