@@ -19,6 +19,8 @@ my linux environment.
 12. Install git. https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04
 13. Install Sublime. http://ubuntuhandbook.org/index.php/2013/12/install-sublime-text-3-ubuntu-14-04-trusty/o
 14. Install Google Chrome 
+15. Install redshift. http://askubuntu.com/questions/482373/how-do-i-install-redshift-in-ubuntu
+    Create redshift.conf in ~/.config
 
 # Chrome extensions
 
