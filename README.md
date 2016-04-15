@@ -22,6 +22,7 @@ my linux environment.
 15. Install redshift. http://askubuntu.com/questions/482373/how-do-i-install-redshift-in-ubuntu
     Create redshift.conf in ~/.config
 16. Install https://github.com/ggreer/the_silver_searcher for searching text
+17. https://github.com/kennethreitz/autoenv
 
 # Chrome extensions
 
