@@ -21,6 +21,7 @@ my linux environment.
 14. Install Google Chrome 
 15. Install redshift. http://askubuntu.com/questions/482373/how-do-i-install-redshift-in-ubuntu
     Create redshift.conf in ~/.config
+16. Install https://github.com/ggreer/the_silver_searcher for searching text
 
 # Chrome extensions
 
