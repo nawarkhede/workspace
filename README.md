@@ -23,6 +23,7 @@ my linux environment.
     Create redshift.conf in ~/.config
 16. Install https://github.com/ggreer/the_silver_searcher for searching text
 17. https://github.com/kennethreitz/autoenv
+18. Awesome oh-my-zsh theme https://github.com/taylorotwell/shell
 
 # Chrome extensions
 
