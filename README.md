@@ -24,6 +24,7 @@ my linux environment.
 16. Install https://github.com/ggreer/the_silver_searcher for searching text
 17. https://github.com/kennethreitz/autoenv
 18. Awesome oh-my-zsh theme https://github.com/taylorotwell/shell
+19. Install https://asciinema.org/docs/installation
 
 # Chrome extensions
 
