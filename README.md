@@ -25,6 +25,7 @@ my linux environment.
 17. https://github.com/kennethreitz/autoenv
 18. Awesome oh-my-zsh theme https://github.com/taylorotwell/shell
 19. Install https://asciinema.org/docs/installation
+20. Install https://github.com/chrisallenlane/cheat
 
 # Chrome extensions
 
