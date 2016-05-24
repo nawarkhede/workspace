@@ -27,6 +27,10 @@ my linux environment.
 19. Install https://asciinema.org/docs/installation
 20. Install https://github.com/chrisallenlane/cheat
 
+# Other
+1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R
+2. find utf8 chars vim : /[^\x00-\x7F]
+
 # Chrome extensions
 
 1. Adblock
