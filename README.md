@@ -31,6 +31,7 @@ my linux environment.
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
 2. find utf8 chars vim : /[^\x00-\x7F]  http://stackoverflow.com/a/16987522
 3. spot utf8 chars vim : http://stackoverflow.com/a/16987522
+4. remove the packages which are not in requirements.txt pip freeze | grep -v -f requirements.txt - | xargs pip uninstall -y
 
 # Chrome extensions
 
