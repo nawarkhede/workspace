@@ -21,4 +21,5 @@
 	s = stash
 	sl = stash list
 	laststashed = stash apply stash@{0}
-	slast = stash
+    slast = stash
+    gglog = log --graph --pretty=format:'%Cred%h%Creset %an: %s - %Creset %C(yellow)%d%Creset %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
