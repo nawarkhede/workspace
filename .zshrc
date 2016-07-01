@@ -94,8 +94,6 @@ alias clean="git checkout ../static/css"
 
 alias pyclean="find . -name '*.pyc' -delete"
 
-alias gitmail_c="git config user.email nishant.n@coverfoxmail.com"
-
 alias gitmail_p="git config user.email nishant.nawarkhede@gmail.com"
 
 alias s_migrations="./manage.py showmigrations | grep -v '\[X\]'"
