@@ -29,6 +29,7 @@ my linux environment.
 21. Install https://github.com/zsh-users/zsh-syntax-highlighting
 22. Install dictionary http://askubuntu.com/a/191268
 23. Install https://github.com/paoloantinori/hhighlighter
+24. Install postgres http://tecadmin.net/install-postgresql-server-on-ubuntu/
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
