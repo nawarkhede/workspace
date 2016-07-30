@@ -34,6 +34,7 @@ my linux environment.
 26. You can install https://github.com/arialdomartini/oh-my-git
 27. Install https://github.com/nicolargo/glances (tool for system monitering)
 28. Install https://github.com/Xfennec/progress (copying progress in terminal)
+29. Try https://transfer.sh/ (share files using terminal)
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
