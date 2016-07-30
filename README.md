@@ -32,6 +32,7 @@ my linux environment.
 24. Install postgres http://tecadmin.net/install-postgresql-server-on-ubuntu/
 25. Python syntax check on fly https://coderwall.com/p/ac8ihg/vim-checking-python-code-on-the-fly
 26. You can install https://github.com/arialdomartini/oh-my-git
+27. Install https://github.com/nicolargo/glances (tool for system monitering)
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
