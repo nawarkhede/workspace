@@ -28,6 +28,13 @@ my linux environment.
 20. Install https://github.com/chrisallenlane/cheat
 21. Install https://github.com/zsh-users/zsh-syntax-highlighting
 22. Install dictionary http://askubuntu.com/a/191268
+23. Install https://github.com/paoloantinori/hhighlighter
+24. Install postgres http://tecadmin.net/install-postgresql-server-on-ubuntu/
+25. Python syntax check on fly https://coderwall.com/p/ac8ihg/vim-checking-python-code-on-the-fly
+26. You can install https://github.com/arialdomartini/oh-my-git
+27. Install https://github.com/nicolargo/glances (tool for system monitering)
+28. Install https://github.com/Xfennec/progress (copying progress in terminal)
+29. Try https://transfer.sh/ (share files using terminal)
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
