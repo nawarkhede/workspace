@@ -35,6 +35,7 @@ my linux environment.
 27. Install https://github.com/nicolargo/glances (tool for system monitering)
 28. Install https://github.com/Xfennec/progress (copying progress in terminal)
 29. Try https://transfer.sh/ (share files using terminal)
+30. Install powerline font https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
