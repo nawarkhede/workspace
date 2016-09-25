@@ -36,6 +36,7 @@ my linux environment.
 28. Install https://github.com/Xfennec/progress (copying progress in terminal)
 29. Try https://transfer.sh/ (share files using terminal)
 30. Install powerline font https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a
+31. Install http://www.bpython-interpreter.org/
 
 # Other
 1. find utf8 chars : grep --color='auto' -P -n "[\x80-\xFF]" -R  http://stackoverflow.com/a/16987522
